@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(calculator:greet) -->
+    <calculator:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(calculator:greet) -->
